@@ -1,6 +1,6 @@
 # 支付宝支付Demo
 
-[Download](https://github.com/shenhuanet/AndroidOpen/tree/master/--Downloads/AlipayDemo.zip)
+[Download](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
 
 - 开发文档: https://openhome.alipay.com/developmentDocument.htm
 - Api文档: https://docs.open.alipay.com/api

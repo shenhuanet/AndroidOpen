@@ -10,6 +10,6 @@ An android AD image banner. Supports unlimited cycle and a variety of topics, th
 Text can be in the form of ticker.
 
 ## Download the inner project
-1.[AlipayDemo](https://github.com/shenhuanet/AndroidOpen/tree/master/--Downloads/AlipayDemo.zip)
+1.[AlipayDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
 
-2.[BannerDemo](https://github.com/shenhuanet/AndroidOpen/tree/master/--Downloads/BannerDemo.zip)
+2.[BannerDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BannerDemo.zip)
