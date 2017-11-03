@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion complie_sdk_version as int
+    buildToolsVersion build_tool_version
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion target_sdk as int
+        versionCode 1
+        versionName "1.0.1"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile "com.android.support:appcompat-v7:${appcompat_v7}"
+    testCompile 'junit:junit:4.12'
+    compile "com.github.bumptech.glide:glide:${glide}"
+}
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'bannnerView'
+    bintrayGroupName = 'shenhuanetos'
+    publishedGroupId = 'com.shenhua.libs'
+    libraryName = 'bannerview'
+    artifact = 'bannerview'
+    libraryDescription = 'An android AD image banner. Supports unlimited cycle and a variety of topics, the flexibility to set the rotation style, time, location, image loading frame, etc.!'
+    siteUrl = 'https://github.com/shenhuanet/BannerDemo'
+    gitUrl = 'https://github.com/shenhuanet/BannerDemo.git'
+    libraryVersion = '1.0.1'
+    developerId = 'shenhua'
+    developerName = 'shenhua'
+    developerEmail = 'shenhuanet@126.com'
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+apply from: 'https://raw.githubusercontent.com/shenhuanet/JCenter/master/install.gradle'
+apply from: 'https://raw.githubusercontent.com/shenhuanet/JCenter/master/bintray.gradle'

@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion complie_sdk_version as int
+    buildToolsVersion build_tool_version
+
+    defaultConfig {
+        applicationId "com.shenhua.bannerdemo"
+        minSdkVersion min_sdk as int
+        targetSdkVersion target_sdk as int
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile "com.android.support:appcompat-v7:${appcompat_v7}"
+    compile "com.android.support:recyclerview-v7:${appcompat_v7}"
+    compile "com.github.bumptech.glide:glide:${glide}"
+    compile 'com.shenhua.libs:bannerview:1.0'
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shenhua.bannerdemo.droper.DropDownLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/message_text"
+        android:layout_width="match_parent"
+        android:layout_height="199px"
+        android:layout_marginTop="-200px"
+        android:background="@color/colorBackground"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="本网页由 神话网络 提供"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/content_id"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/colorGray"
+        android:padding="5dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="I am just a button" />
+    </RelativeLayout>
+
+</com.shenhua.bannerdemo.droper.DropDownLinearLayout>
