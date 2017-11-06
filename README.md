@@ -12,6 +12,8 @@ Text can be in the form of ticker.
 A Baidu map demo, including positioning and path planning.
 ### [citypicker](https://github.com/shenhuanet/AndroidOpen/tree/master/citypicker)
 Based on the local json city list file + AMap api wrapper of the city location selection demo.
+### [datepicker](https://github.com/shenhuanet/AndroidOpen/tree/master/datepicker)
+More beautiful selection controls, including value selection box, date selection box, constellation selection box..
 
 ## Download the inner project
 1.[AlipayDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
@@ -20,6 +22,6 @@ Based on the local json city list file + AMap api wrapper of the city location s
 
 3.[BaiduNavDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BaiduNav.zip)
 
-4.[BaiduNavDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/Citypicker.zip)
+4.[CityPicker](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/Citypicker.zip)
 
-5.[CityPicker](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/Citypicker.zip)
+5.[DatePicker](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/DatePickerDemo.zip)
