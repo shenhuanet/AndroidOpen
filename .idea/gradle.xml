@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/baidunav" />
             <option value="$PROJECT_DIR$/banner" />
             <option value="$PROJECT_DIR$/bannerview" />
+            <option value="$PROJECT_DIR$/citypicker" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
