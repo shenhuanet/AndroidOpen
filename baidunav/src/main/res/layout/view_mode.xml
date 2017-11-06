@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/viewStub_mode"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:background="@drawable/bg_layout_round"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_drive"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_drive_selector" />
+
+    <Button
+        android:id="@+id/btn_transit"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_transit_selector" />
+
+    <Button
+        android:id="@+id/btn_walk"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_walk_selector" />
+
+    <Button
+        android:id="@+id/btn_bike"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_bike_selector" />
+
+</LinearLayout>
