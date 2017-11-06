@@ -1,1 +1,1 @@
-include ':app', ':alipay', ':banner', ':bannerview', ':baidunav', ':citypicker', ':datepicker'
+include ':app', ':alipay', ':banner', ':bannerview', ':baidunav', ':citypicker', ':datepicker', ':onekeylock'

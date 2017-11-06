@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/bannerview/bannerview.iml" filepath="$PROJECT_DIR$/bannerview/bannerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/citypicker/citypicker.iml" filepath="$PROJECT_DIR$/citypicker/citypicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/datepicker/datepicker.iml" filepath="$PROJECT_DIR$/datepicker/datepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onekeylock/onekeylock.iml" filepath="$PROJECT_DIR$/onekeylock/onekeylock.iml" />
     </modules>
   </component>
 </project>
