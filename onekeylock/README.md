@@ -2,7 +2,7 @@
 
 [Download](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/OneKeyLock.zip)
 
-点击[这里](https://github.com/shenhuanet/AndroidOpen/raw/master/onekeylock/app-umeng-relase-1.0.apk)下载apk.
+点击[这里](https://github.com/shenhuanet/AndroidOpen/raw/master/onekeylock/app-umeng-release-1.0.apk)下载apk.
 
 ![](https://github.com/shenhuanet/AndroidOpen/blob/master/onekeylock/src/main/res/mipmap-hdpi/ic_launcher.png)
 
