@@ -5,14 +5,14 @@
 ## 调试时注意事项
 - 注意Android6.0运行时权限开启
 - 注意开发者需要在自己百度地图开放平台应用控制台中填写正确的包名和签名文件的SHA1值
-SH1值的获取,打开CMD: (jdk.bin)\keytool -list -v -keystore (文件路径) 
+- SH1值的获取,打开CMD: (jdk.bin)\keytool -list -v -keystore (文件路径) 
 Android Studio 默认签名文件在C:\Users\xxxxxxx\.android\ 文件夹下
 
 ## 效果预览
 <div align="center">
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/baidunav/blob/master/screenshot/img_home.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/baidunav/master/screenshot/img_find.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/baidunav/master/screenshot/img_path.png"/>
+	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_home.png"/>
+	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_find.png"/>
+	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_path.png"/>
 </div>
 
 ## 关于作者

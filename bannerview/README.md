@@ -8,7 +8,7 @@
 An android AD image banner. Supports unlimited cycle and a variety of topics, the flexibility to set the rotation style, time, location, image loading frame, etc.!
 Text can be in the form of ticker
 ## Screenshot:
-![](https://github.com/shenhuanet/AndroidDemo/blob/master/bannder/banner.gif)
+![](https://github.com/shenhuanet/AndroidOpen/blob/master/banner/banner.gif)
 
 ### how to use:
 ```
