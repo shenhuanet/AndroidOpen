@@ -15,3 +15,5 @@ A Baidu map demo, including positioning and path planning.
 1.[AlipayDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
 
 2.[BannerDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BannerDemo.zip)
+
+3.[BaiduNavDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BaiduNav.zip)
