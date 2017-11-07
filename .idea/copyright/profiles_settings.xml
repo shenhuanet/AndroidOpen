@@ -1,7 +1,7 @@
 <component name="CopyrightManager">
-  <settings default="Apache">
+  <settings default="">
     <module2copyright>
-      <element module="Project Files" copyright="Apache" />
+      <element module="Project Files" copyright="shenhuanet-apache" />
     </module2copyright>
   </settings>
 </component>

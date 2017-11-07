@@ -1,1 +1,1 @@
-include ':app', ':alipay', ':banner', ':bannerview', ':baidunav', ':citypicker', ':datepicker', ':onekeylock', ':selectabletextprovider', ':firupdater', ':material-animations', ':material-transition'
+include ':app', ':alipay', ':banner', ':bannerview', ':baidunav', ':citypicker', ':datepicker', ':onekeylock', ':selectabletextprovider', ':firupdater', ':material-animations', ':material-transition', ':sharedelement'

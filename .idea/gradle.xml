@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/material-transition" />
             <option value="$PROJECT_DIR$/onekeylock" />
             <option value="$PROJECT_DIR$/selectabletextprovider" />
+            <option value="$PROJECT_DIR$/sharedelement" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
