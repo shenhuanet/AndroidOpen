@@ -2,7 +2,7 @@
 
 SDK>=21. This is not a backport of Transition Framework. This demo works above Lollipop only.
 
-![screenshot](https://github.com/shenhuanet/AndroidOpen/blob/master/sharedelement/screenshot/img.gif)
+![screenshot](https://github.com/shenhuanet/AndroidOpen/blob/master/sharedelement/img.gif)
 
 # Usage
 When launching another activity,specify the views where you want to  perform transition and pass it as a bundle. The launching activity and the launched activity should have common views to perform transition on that pair of views.

@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/onekeylock/onekeylock.iml" filepath="$PROJECT_DIR$/onekeylock/onekeylock.iml" />
       <module fileurl="file://$PROJECT_DIR$/selectabletextprovider/selectabletextprovider.iml" filepath="$PROJECT_DIR$/selectabletextprovider/selectabletextprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedelement/sharedelement.iml" filepath="$PROJECT_DIR$/sharedelement/sharedelement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiprefreshlayou/swiprefreshlayou.iml" filepath="$PROJECT_DIR$/swiprefreshlayou/swiprefreshlayou.iml" />
     </modules>
   </component>
 </project>

@@ -28,6 +28,11 @@ A Material animations demo.
 A Material transition demo.
 ### 11 [sharedelement](https://github.com/shenhuanet/AndroidOpen/tree/master/sharedelement)
 Android 5.0 and above to shared elemental effects.
+### 12 [pulldownfilter](https://github.com/shenhuanet/AndroidOpen/tree/master/pulldownfilter)
+A Pull Down Filter View demo.
+### 13 [swiperefreshlayout](https://github.com/shenhuanet/AndroidOpen/tree/master/swiperefreshlayout)
+A Pull Down Filter View demo.
+
 
 ## Download the inner project
 1. [AlipayDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
@@ -51,3 +56,28 @@ Android 5.0 and above to shared elemental effects.
 10. [MaterialTransitionDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/MaterialTransitionDemo.zip)
 
 11. [SharedElement](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SharedElement.zip)
+
+12. [PullDownFilter](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/PullDownFilterDemo.zip)
+
+13. [SwipeRefreshLayout](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SwipeRefreshLayout.zip)
+
+
+## About Me
+CSDN：http://blog.csdn.net/klxh2009<br>
+JianShu：http://www.jianshu.com/u/12a81897d5bc
+
+## License
+
+    Copyright 2017 shenhuanet
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
