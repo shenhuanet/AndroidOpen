@@ -22,7 +22,10 @@ The most lightweight APP: one key lock screen. Down load the release app in [her
 A text view that supports selection and expansion.
 ### 8 *[firupdater](https://github.com/shenhuanet/AndroidOpen/tree/master/firupdater)*
 A fir.im-based Android online update library.
-
+### 9 [material-animations](https://github.com/shenhuanet/AndroidOpen/tree/master/material-animations)
+A Material animations demo.
+### 10 [material-transition](https://github.com/shenhuanet/AndroidOpen/tree/master/material-transition)
+A Material transition demo.
 
 ## Download the inner project
 1. [AlipayDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/AlipayDemo.zip)
@@ -40,3 +43,7 @@ A fir.im-based Android online update library.
 7. [SelectableTextProvider](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SelectableTextProvider.zip)
 
 8. [FirDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/FirDemo.zip)
+
+9. [MaterialAnimationsDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/MaterialAnimationsDemo.zip)
+
+9. [MaterialTransitionDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/MaterialTransitionDemo.zip)

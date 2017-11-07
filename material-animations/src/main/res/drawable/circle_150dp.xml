@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="150.0"
+    android:viewportHeight="150.0">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 130.13,100.00
+           C 127.19,106.85 124.14,111.60 118.96,117.00
+             113.08,123.13 107.75,127.17 100.00,130.69
+             91.58,134.51 82.20,136.10 73.00,136.00
+             26.03,135.46 -1.92,83.31 23.55,44.00
+             33.84,28.11 48.88,20.40 67.00,17.43
+             113.10,11.73 148.55,57.00 130.13,100.00 Z"/>
+</vector>
