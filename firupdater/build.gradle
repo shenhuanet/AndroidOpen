@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion complie_sdk_version as int
+    buildToolsVersion build_tool_version
+    resourcePrefix "less_"
+
+    defaultConfig {
+        minSdkVersion min_sdk as int
+        targetSdkVersion target_sdk as int
+        versionCode 2
+        versionName "2.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile "com.android.support:appcompat-v7:${appcompat_v7}"
+    testCompile 'junit:junit:4.12'
+}
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'fir-updater'
+    bintrayGroupName = 'shenhuanetos'
+    publishedGroupId = 'com.shenhua.libs'
+    libraryName = 'firupdater'
+    artifact = 'firupdater'
+    libraryDescription = 'A online update library for Android base fir.im'
+    siteUrl = 'https://github.com/shenhuanet/FirDemo'
+    gitUrl = 'https://github.com/shenhuanet/FirDemo.git'
+    libraryVersion = '2.0'
+    developerId = 'shenhua'
+    developerName = 'shenhua'
+    developerEmail = 'shenhuanet@126.com'
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+apply from: 'https://raw.githubusercontent.com/shenhuanet/JCenter/master/install.gradle'
+apply from: 'https://raw.githubusercontent.com/shenhuanet/JCenter/master/bintray.gradle'

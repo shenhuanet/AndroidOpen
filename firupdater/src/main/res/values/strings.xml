@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirUpdater</string>
+    <string name="fir_string_new_version">新版本号：%s</string>
+    <string name="fir_string_new_time">发布时间：%s</string>
+    <string name="fir_string_new_log">更新说明：</string>
+    <string name="fir_string_new_size">文件大小：%s</string>
+    <string name="string_finded">发现新版本</string>
+</resources>

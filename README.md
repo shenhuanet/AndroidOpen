@@ -20,6 +20,8 @@ More beautiful selection controls, including value selection box, date selection
 The most lightweight APP: one key lock screen. Down load the release app in [here](https://github.com/shenhuanet/AndroidOpen/raw/master/onekeylock/app-umeng-release-1.0.apk).
 ### 7. *[selectabletextprovider](https://github.com/shenhuanet/AndroidOpen/tree/master/selectabletextprovider)*
 A text view that supports selection and expansion.
+### 8 *[firupdater](https://github.com/shenhuanet/AndroidOpen/tree/master/firupdater)*
+A fir.im-based Android online update library.
 
 
 ## Download the inner project
@@ -36,3 +38,5 @@ A text view that supports selection and expansion.
 6. [OneKeyLock](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/OneKeyLock.zip)
 
 7. [SelectableTextProvider](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SelectableTextProvider.zip)
+
+8. [FirDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/FirDemo.zip)
