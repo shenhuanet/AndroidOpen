@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/citypicker/citypicker.iml" filepath="$PROJECT_DIR$/citypicker/citypicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/datepicker/datepicker.iml" filepath="$PROJECT_DIR$/datepicker/datepicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/firupdater/firupdater.iml" filepath="$PROJECT_DIR$/firupdater/firupdater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httplib/httplib.iml" filepath="$PROJECT_DIR$/httplib/httplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linechart/linechart.iml" filepath="$PROJECT_DIR$/linechart/linechart.iml" />
       <module fileurl="file://$PROJECT_DIR$/material-animations/material-animations.iml" filepath="$PROJECT_DIR$/material-animations/material-animations.iml" />
       <module fileurl="file://$PROJECT_DIR$/material-transition/material-transition.iml" filepath="$PROJECT_DIR$/material-transition/material-transition.iml" />
       <module fileurl="file://$PROJECT_DIR$/onekeylock/onekeylock.iml" filepath="$PROJECT_DIR$/onekeylock/onekeylock.iml" />

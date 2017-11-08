@@ -1,4 +1,7 @@
 # SelectableTextProvider
+[ ![jCenter](https://img.shields.io/badge/version-1.0.1-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/library/1.0.1/)
+[![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://bintray.com/shenhuanetos/maven/selectableTextProvider)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 [ ![Download](https://api.bintray.com/packages/shenhuanetos/maven/selectableTextProvider/images/download.svg) ](https://bintray.com/shenhuanetos/maven/selectableTextProvider/_latestVersion)
 

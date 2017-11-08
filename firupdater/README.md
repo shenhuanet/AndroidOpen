@@ -1,5 +1,4 @@
 # FirUpdater
-
 [ ![jCenter](https://img.shields.io/badge/version-2.0-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/fir-updater/2.0/)
 [![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://bintray.com/shenhuanetos/maven/fir-updater)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)

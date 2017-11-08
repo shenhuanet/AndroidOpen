@@ -1,5 +1,5 @@
 # BannerDemo
-[ ![jCenter](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/bannerview/1.0/)
+[ ![jCenter](https://img.shields.io/badge/version-1.0-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/bannerview/1.0/)
 [![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://bintray.com/shenhuanetos/maven/bannnerView)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
