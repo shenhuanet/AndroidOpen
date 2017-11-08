@@ -61,9 +61,9 @@
 ```
 ## 效果预览
 <div align="center">
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_value_picker.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_date_picker.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_option_picker.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_value_picker.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_date_picker.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_option_picker.png"/>
 </div>
 
 ## 关于作者

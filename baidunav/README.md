@@ -10,9 +10,9 @@ Android Studio 默认签名文件在C:\Users\xxxxxxx\.android\ 文件夹下
 
 ## 效果预览
 <div align="center">
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_home.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_find.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_path.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_home.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_find.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_path.png"/>
 </div>
 
 ## 关于作者

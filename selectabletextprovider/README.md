@@ -9,7 +9,7 @@ A text view that supports selection and expansion.
 
 ## Screenshot:
 <div align="center">
-    <img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/selectabletextprovider/img_screenshot.png"/>
+    <img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/selectabletextprovider/img_screenshot.png"/>
 </div>
 
 ## Usage:

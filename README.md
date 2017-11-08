@@ -14,18 +14,32 @@ Text can be in the form of ticker.
 ### 2.1 *[bannerview](https://github.com/shenhuanet/AndroidOpen/tree/master/bannerview)*
 The library of the banner.
 [Download BannerDemo](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BannerDemo.zip)
+<div align="center">
+    <img width="168" height="275" src="https://github.com/shenhuanet/AndroidOpen/blob/master/banner/banner.gif"/>
+</div>
 
 ### 3. [baidunav](https://github.com/shenhuanet/AndroidOpen/tree/master/baidunav)
 A Baidu map demo, including positioning and path planning.
 [Download BaiduNav](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/BaiduNav.zip)
+<div align="center">
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/baidunav/screenshot/img_path.png"/>
+</div>
 
 ### 4. [citypicker](https://github.com/shenhuanet/AndroidOpen/tree/master/citypicker)
 Based on the local json city list file + AMap api wrapper of the city location selection demo.
 [Download CityPicker](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/Citypicker.zip)
+<div align="center">
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_main.png"/>
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_click.png"/>
+</div>
 
 ### 5. [datepicker](https://github.com/shenhuanet/AndroidOpen/tree/master/datepicker)
 More beautiful selection controls, including value selection box, date selection box, constellation selection box.
 [Download DatePicker](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/DatePickerDemo.zip)
+<div align="center">
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_date_picker.png"/>
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/datepicker/screenshot/img_option_picker.png"/>
+</div>
 
 ### 6. [onekeylock](https://github.com/shenhuanet/AndroidOpen/tree/master/onekeylock)
 The most lightweight APP: one key lock screen. Down load the release app in [here](https://github.com/shenhuanet/AndroidOpen/raw/master/onekeylock/app-umeng-release-1.0.apk).
@@ -34,6 +48,9 @@ The most lightweight APP: one key lock screen. Down load the release app in [her
 ### 7. *[selectabletextprovider](https://github.com/shenhuanet/AndroidOpen/tree/master/selectabletextprovider)*
 A text view that supports selection and expansion.
 [Download SelectableTextProvider](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SelectableTextProvider.zip)
+<div align="center">
+    <img width="180" height="320" src="https://github.com/shenhuanet/AndroidOpen/blob/master/selectabletextprovider/img_screenshot.png"/>
+</div>
 
 ### 8 *[firupdater](https://github.com/shenhuanet/AndroidOpen/tree/master/firupdater)*
 A fir.im-based Android online update library.
@@ -50,17 +67,29 @@ A Material transition demo.
 ### 11 [sharedelement](https://github.com/shenhuanet/AndroidOpen/tree/master/sharedelement)
 Android 5.0 and above to shared elemental effects.
 [Download SharedElement](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SharedElement.zip)
+<div align="center">
+    <img width="179" height="300" src="https://github.com/shenhuanet/AndroidOpen/blob/master/sharedelement/img.gif"/>
+</div>
 
 ### 12 [pulldownfilter](https://github.com/shenhuanet/AndroidOpen/tree/master/pulldownfilter)
 A Pull Down Filter View demo.
 [Download PullDownFilter](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/PullDownFilterDemo.zip)
+<div align="center">
+    <img width="167" height="296" src="https://github.com/shenhuanet/AndroidOpen/blob/master/pulldownfilter/Screenshot.gif"/>
+</div>
 
 ### 13 [swiprefreshlayout](https://github.com/shenhuanet/AndroidOpen/tree/master/swiprefreshlayout)
 A Pull Down Filter View demo.
 [Download SwipeRefreshLayout](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/SwipeRefreshLayout.zip)
+<div align="center">
+    <img width="167" height="274" src="https://github.com/shenhuanet/AndroidOpen/blob/master/swiprefreshlayout/Screenshot.gif"/>
+</div>
 
 ### 14 ~~[linechart](https://github.com/shenhuanet/AndroidOpen/tree/master/linechart)~~
 *No longer maintained.* Custom View extends SurfaceView dynamic drawing of the line.
+<div align="center">
+    <img width="223" height="170" src="https://github.com/shenhuanet/AndroidOpen/blob/master/linechart/screenshot.gif"/>
+</div>
 
 ### 15 [httplib](https://github.com/shenhuanet/AndroidOpen/tree/master/httplib)
 An HTTP request encapsulation library for general api request testing.

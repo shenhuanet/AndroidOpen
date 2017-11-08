@@ -19,7 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/pulldownfilter/pulldownfilter.iml" filepath="$PROJECT_DIR$/pulldownfilter/pulldownfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/selectabletextprovider/selectabletextprovider.iml" filepath="$PROJECT_DIR$/selectabletextprovider/selectabletextprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedelement/sharedelement.iml" filepath="$PROJECT_DIR$/sharedelement/sharedelement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swiprefreshlayou/swiprefreshlayou.iml" filepath="$PROJECT_DIR$/swiprefreshlayou/swiprefreshlayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiprefreshlayout/swiprefreshlayout.iml" filepath="$PROJECT_DIR$/swiprefreshlayout/swiprefreshlayout.iml" />
     </modules>
   </component>
 </project>

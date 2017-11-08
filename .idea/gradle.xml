@@ -24,7 +24,7 @@
             <option value="$PROJECT_DIR$/pulldownfilter" />
             <option value="$PROJECT_DIR$/selectabletextprovider" />
             <option value="$PROJECT_DIR$/sharedelement" />
-            <option value="$PROJECT_DIR$/swiprefreshlayou" />
+            <option value="$PROJECT_DIR$/swiprefreshlayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

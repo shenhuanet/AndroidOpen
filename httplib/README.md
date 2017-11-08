@@ -1,11 +1,14 @@
 # httplib
-[ ![jCenter](https://img.shields.io/badge/version-1.0-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/httplib/1.0/)
+[ ![jCenter](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg) ](https://dl.bintray.com/shenhuanetos/maven/com/shenhua/libs/httplib/1.0/)
 [![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://bintray.com/shenhuanetos/maven/httpLibrary)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 An HTTP request encapsulation library for general api request testing.
 
 ## Usage:
+```grovvy
+compile 'com.shenhua.libs:httplib:1.0.0'
+```
 ```java
 XXXXService service = HttpLib.getInstance().getBaseRetrofitService(this, URL).create(XXXXService.class);
 Call<String> call = service.getString("js", 0, 6);

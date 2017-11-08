@@ -10,10 +10,10 @@
 
 ## 效果预览
 <div align="center">
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_main.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_click.png"/>
-	<img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_serach.png"/>
-    <img width="300" height="533" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_slide.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_main.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_click.png"/>
+	<img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_serach.png"/>
+    <img width="252" height="448" src="https://github.com/shenhuanet/AndroidOpen/blob/master/citypicker/screenshot/img_slide.png"/>
 </div>
 
 ## 关于作者
