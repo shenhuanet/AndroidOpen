@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidOpen.iml" filepath="$PROJECT_DIR$/AndroidOpen.iml" />
       <module fileurl="file://$PROJECT_DIR$/alipay/alipay.iml" filepath="$PROJECT_DIR$/alipay/alipay.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundkeepalive/backgroundkeepalive.iml" filepath="$PROJECT_DIR$/backgroundkeepalive/backgroundkeepalive.iml" />
       <module fileurl="file://$PROJECT_DIR$/baidunav/baidunav.iml" filepath="$PROJECT_DIR$/baidunav/baidunav.iml" />
       <module fileurl="file://$PROJECT_DIR$/banner/banner.iml" filepath="$PROJECT_DIR$/banner/banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/bannerview/bannerview.iml" filepath="$PROJECT_DIR$/bannerview/bannerview.iml" />
