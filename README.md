@@ -95,7 +95,7 @@ A Pull Down Filter View demo.
 An HTTP request encapsulation library for general api request testing.
 [Download HttpLibrary](https://github.com/shenhuanet/AndroidOpen/raw/master/--Downloads/HttpLibrary.zip)
 
-### 16 [backgroundkeepalice](https://github.com/shenhuanet/AndroidOpen/tree/master/backgroundkeepalice)
+### 16 [backgroundkeepalive](https://github.com/shenhuanet/AndroidOpen/tree/master/backgroundkeepalive)
 Background process keep alive, using jni to achieve, is currently in research and development.
 
 ## About Me
